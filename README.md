@@ -1,9 +1,9 @@
 # Eric Goetschalckx
 eric@goetschalckx.com
 
-    Accomplished architecht and lead software engineer 
-    with twelve years of engineering experience 
-    and three years of management experience
+    software architect
+    with twelve years engineering 
+    and three years management
 
 ## Areas of Expertise
  - Engineering Management
