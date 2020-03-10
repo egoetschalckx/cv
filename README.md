@@ -1,5 +1,6 @@
 # Eric Goetschalckx
 eric@goetschalckx.com
+
 https://github.com/egoetschalckx
 
 ## Areas of Expertise
@@ -15,21 +16,21 @@ https://github.com/egoetschalckx
 ## Professional Experience
 
 **Software Engineering Manager at NCR** (August 2017 - Present)
- - Managed a team of 35 engineers writing NCR enterprise platform solutions
+ - Managed a team of 35 engineers writing NCR Enterprise API Platform solutions
  - Architechted multiple successful cloud-native applications on AWS and GCP
- - Integrations with world-leaders in Ordering and Delivery
+ - Integrations with DoorDash, Uber Eats, LevelUp, Bringg, AnswerRocket, and many NCR Points-of-Sale
  - Personally recruited 20+ engineers and interns from local unversities
- - Mentor at internal and external Hackathons
- - Lead by example in Open Source and Intellectual Property
+ - Mentored at both NCR and University Hackathons
+ - Lead by example in Open Source and Intellectual Property strategic goals
 
 **Lead Software Engineer BetterCloud** (September 2015 – February 2017)
- - Team Lead on a 5 engineer team writing BetterCloud Cloud Directory (Kafka, Spring Boot, Elasticsearch, MySQL, Docker, and AngularJS)
+ - Dev Lead on a 5 engineer team writing BetterCloud Cloud Directory (Kafka, Spring Boot, Elasticsearch, MySQL, Docker, AngularJS)
  - Evangalized Code Quality best-practices like Unit and Integration Testing, and Static Code Analysis (JUnit, Mockito, SonarQube, JMeter)
- - Leadership responsibilities include coordinating cross-team efforts, recommending design patterns, reviewing all code submissions and production monitoring
+ - Leadership responsibilities include coordinating cross-team efforts, architecture and design patterns, reviewing all code submission, and production monitoring
 
 **Lead Developer NCR Corporation** (September 2012 – August 2015)
- - Manager of a 6 engineer team writing NCR Mobile Pay, a mobile payments API and UI (C# WebAPI, jQuery, Bootstrap)
- - Integrations with PayPal, LevelUp, OpenTable, Apple Pay, and Google Wallet
+ - Manager of a 6 engineer team writing NCR Mobile Pay, a mobile payments API and UI (C# WebAPI, jQuery, Bootstrap, Android, iOS)
+ - Integrations with PayPal, LevelUp, OpenTable, Paytronix, and MCX
  - Implemented the CI/CD pipeline (Jenkins, TeamCity, Gradle, MSBuild, NUnit, MSTest, and JMeter)
 
 **Software Engineer INgage Networks** (August 2011 – August 2012)
@@ -37,12 +38,12 @@ https://github.com/egoetschalckx
  - Implemented Dan Hazel's _Using rational numbers to key nested sets_ whitepaper in SQL
  - Developed Unit, Automated, and Load tests (Jenkins, NUnit, MSTest, and SoapUI)
 
-**Application Developer Ericsson January** (2008 – July 2011)
+**Application Developer Ericsson** (January 2008 – July 2011)
  - Developer on xWizard, an application for planning cellular networks (C++ / HTML / JS / SmartGWT)
  - Integrations with ArcGIS, and Google Maps (API and KML)
 
 ## Education
- - Bachelor of Science, Computer Science (with Honors) 2007
+ - Bachelor of Science, Computer Science (with Honors) (2007)
  - Southern Polytechnic State University, Marietta, GA
 
 ## Other
