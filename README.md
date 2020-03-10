@@ -17,7 +17,7 @@ https://github.com/egoetschalckx
 
 **Software Engineering Manager at NCR** (August 2017 - Present)
  - Managed a team of 35 engineers writing NCR Enterprise API Platform solutions
- - Architechted multiple successful cloud-native applications on AWS and GCP
+ - Architected multiple successful cloud-native applications on AWS and GCP
  - Integrations with DoorDash, Uber Eats, LevelUp, Bringg, AnswerRocket, and many NCR Points-of-Sale
  - Personally recruited 20+ engineers and interns from local unversities
  - Mentored at both NCR and University Hackathons
@@ -39,7 +39,7 @@ https://github.com/egoetschalckx
  - Developed Unit, Automated, and Load tests (Jenkins, NUnit, MSTest, and SoapUI)
 
 **Application Developer Ericsson** (January 2008 - July 2011)
- - Developer on xWizard, an application for planning cellular networks (C++ / HTML / JS / SmartGWT)
+ - Developer on xWizard, an application for planning cellular networks (C++ / C# / HTML / JS / SmartGWT)
  - Integrations with ArcGIS, and Google Maps (API and KML)
 
 ## Education
