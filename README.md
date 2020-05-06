@@ -21,7 +21,7 @@ https://github.com/egoetschalckx
  - Delivered integrations with DoorDash, Uber Eats, LevelUp, Bringg, AnswerRocket, and many NCR Points-of-Sale
  - Personally recruited 20+ engineers and interns from local unversities
  - Mentor at both NCR and University Hackathons
- - Lead by example in Open Source and Intellectual Property strategic goals
+ - Led by example in Open Source and Intellectual Property strategic goals
 
 **Lead Software Engineer at BetterCloud** (September 2015 - February 2017)
  - Dev Lead on a 5 engineer team writing BetterCloud Cloud Directory (Kafka, Spring Boot, Elasticsearch, MySQL, Docker, AngularJS)
