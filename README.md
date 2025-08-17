@@ -16,7 +16,8 @@ https://github.com/egoetschalckx
 ## Professional Experience
 
 **Software Engineering Manager at NCR** (April 2017 - Present)
- - Managed a team of 35 engineers writing NCR Enterprise API Platform solutions
+ - Head of Engineering on the NCR Cloud Ordering Platform
+ - Manager 35+ direct reports
  - Architected multiple successful cloud-native applications on AWS and GCP
  - Delivered integrations with DoorDash, Uber Eats, LevelUp, Bringg, AnswerRocket, and many NCR Points-of-Sale
  - Personally recruited 20+ engineers and interns from local unversities
